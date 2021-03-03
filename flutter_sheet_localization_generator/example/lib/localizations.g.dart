@@ -19,10 +19,10 @@ class AppLocalizations {
       dates: AppLocalizations_Labels_Dates(
         weekday: AppLocalizations_Labels_Dates_Weekday(
           monday: 'LUNDI',
-          tuesday: 'Mardi',
+          tuesday: 'mardi',
           wednesday: 'Mercredi',
-          thursday: 'Jeudi',
-          friday: 'Vendredi',
+          thursday: 'jeudi',
+          friday: 'vendredi',
           saturday: 'samedi',
           sunday: 'dimanche',
         ),
